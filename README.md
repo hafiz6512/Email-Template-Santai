@@ -1,6 +1,9 @@
 # Email-Template-Santai
  This is a responsive Email Template for Client.
 
+## Santai Email Temlapte
+### [Demo](https://hafiz6512.github.io/Email-Template-Santai/)
+
 ## Our Website
 ### [DHC](http://diehardcoder.com)
 
